@@ -1,0 +1,7 @@
+package com.surbhi.springdata.idgenerators;
+
+import org.springframework.data.repository.CrudRepository;
+
+public class EmployeeRepository1 implements CrudRepository<T, ID> {
+
+}

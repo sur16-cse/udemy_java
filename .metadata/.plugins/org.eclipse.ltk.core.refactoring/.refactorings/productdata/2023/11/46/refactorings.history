@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MySqlConnection.java&apos; to &apos;idgenerators/src/main/java/com.surbhi.springdata.idgenerators&apos;&#x0A;- Original project: &apos;productdata&apos;&#x0A;- Destination element: &apos;idgenerators/src/main/java/com.surbhi.springdata.idgenerators&apos;&#x0A;- Original element: &apos;com.surbhi.springdata.product.infra.MySqlConnection.java&apos;" description="Copy compilation unit" destination="=idgenerators/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.surbhi.springdata.idgenerators" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.surbhi.springdata.product.infra{MySqlConnection.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1700029483408" units="1" version="1.0"/>
+</session>

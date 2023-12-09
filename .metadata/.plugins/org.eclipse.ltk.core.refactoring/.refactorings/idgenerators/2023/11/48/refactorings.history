@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.surbhi.springdata.idgenerators.EmployeeRepository1.java&apos; to &apos;Employee1Repository.java&apos;&#x0A;- Original project: &apos;idgenerators&apos;&#x0A;- Original element: &apos;com.surbhi.springdata.idgenerators.EmployeeRepository1.java&apos;&#x0A;- Renamed element: &apos;com.surbhi.springdata.idgenerators.Employee1Repository.java&apos;" description="Rename compilation unit &apos;EmployeeRepository1.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.surbhi.springdata.idgenerators{EmployeeRepository1.java" name="Employee1Repository.java" references="false" stamp="1701283400997" version="1.0"/>
+</session>

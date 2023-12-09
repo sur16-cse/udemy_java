@@ -1,0 +1,5 @@
+package com.surbhi.springdata.idgenerators.entities;
+
+public class Employee1 {
+
+}

@@ -1,0 +1,9 @@
+package com.surbhi.springdata.idgenerators.entities;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Employee1 {
+private Long id;
+
+}
